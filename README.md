@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vijay Mali.
-- 👀 I’m interested in Web Development.
-- 🌱 I’m currently learning Diploma in Computer.
+- 👀 I’m interested in Android Development.
+- 🌱 I’m currently persuing B.Tech in Computer Science and Engineering at Walchand college of engineering.
 - 💞️ I’m looking to collaborate on Nothing..
 - 📫 How to reach me insta @itz.viju
 
